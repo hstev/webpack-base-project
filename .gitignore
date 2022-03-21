@@ -1,0 +1,6 @@
+#dependencies  from node_modules (use webpack instead)
+node_modules
+
+#folder generated automatically and their content bundled
+dist
+libs
