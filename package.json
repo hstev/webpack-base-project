@@ -1,5 +1,5 @@
 {
-  "name": "https://github.com/hstev/webpack-base-project",
+  "name": "webpack-base-project",
   "version": "1.0.0",
   "description": "Webpack base project",
   "main": "index.js",
@@ -10,15 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hstev/https://github.com/hstev/webpack-base-project.git"
+    "url": "git+https://github.com/hstev/webpack-base-project.git"
   },
-  "keywords": ["webpack", "bundle"],
+  "keywords": [
+    "webpack",
+    "bundle"
+  ],
   "author": "hstev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hstev/https://github.com/hstev/webpack-base-project/issues"
+    "url": "https://github.com/hstev/webpack-base-project/issues"
   },
-  "homepage": "https://github.com/hstev/https://github.com/hstev/webpack-base-project#readme",
+  "homepage": "https://github.com/hstev/webpack-base-project#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.1.0",
     "@popperjs/core": "^2.10.2",
